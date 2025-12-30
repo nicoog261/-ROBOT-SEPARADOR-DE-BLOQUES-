@@ -4,32 +4,32 @@ Este proyecto implementa un sistema robotizado capaz de identificar y clasificar
 donde una interfaz gráfica en Python (PC) controla el Hub LEGO SPIKE Prime vía Bluetooth Low Energy (BLE).
 
 Características Principales
-Conexión Inalámbrica: Comunicación optimizada vía Bluetooth usando pybricksdev.
+* Conexión Inalámbrica: Comunicación optimizada vía Bluetooth usando pybricksdev.
 
-Interfaz Gráfica (GUI):* Control manual amigable creado con tkinter.
+* Interfaz Gráfica (GUI):* Control manual amigable creado con tkinter.
 
-Detección de Color:* Lectura de sensores en tiempo real para identificar bloques.
+* Detección de Color:* Lectura de sensores en tiempo real para identificar bloques.
 
-Control de Mecanismos:* Accionamiento independiente de motores para girar el robot y empujar/tirar piezas.
+* Control de Mecanismos:* Accionamiento independiente de motores para girar el robot y empujar/tirar piezas.
 
 
  Requisitos del Sistema
  
 
 Hardware
-Kit LEGO SPIKE Prime (Hub + Motores + Sensor de Color).
-Computador con conectividad Bluetooth.
+* Kit LEGO SPIKE Prime (Hub + Motores + Sensor de Color).
+* Computador con conectividad Bluetooth.
 
 Software
-Python 3.9* o superior.
-Sistema Operativo: Windows 10/11, macOS o Linux.
+* Python 3.9* o superior.
+* Sistema Operativo: Windows 10/11, macOS o Linux.
 
  Instalación:
 
    Dependencias: 
    
    
-   pip install pybricksdev
+   * pip install pybricksdev
 
 
    
