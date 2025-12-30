@@ -5,11 +5,16 @@ donde una interfaz gráfica en Python (PC) controla el Hub LEGO SPIKE Prime vía
 
 Características Principales
 Conexión Inalámbrica: Comunicación optimizada vía Bluetooth usando pybricksdev.
+
 Interfaz Gráfica (GUI):* Control manual amigable creado con tkinter.
+
 Detección de Color:* Lectura de sensores en tiempo real para identificar bloques.
+
 Control de Mecanismos:* Accionamiento independiente de motores para girar el robot y empujar/tirar piezas.
 
+
  Requisitos del Sistema
+ 
 
 Hardware
 Kit LEGO SPIKE Prime (Hub + Motores + Sensor de Color).
@@ -19,9 +24,11 @@ Software
 Python 3.9* o superior.
 Sistema Operativo: Windows 10/11, macOS o Linux.
 
- Instalación
+ Instalación:
 
    Dependencias: 
+   
+   
    pip install pybricksdev
 
 
