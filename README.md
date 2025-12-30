@@ -33,9 +33,12 @@ Software
 
 
    
-   Descarga el código fuente a tu computadora.
+  
 <img width="481" height="609" alt="imagenPrograma" src="https://github.com/user-attachments/assets/54b85266-b738-422f-881c-50dda93fbbe8" />
 
 
+
+
+ Descarga el código fuente a tu computadora.
 
 
